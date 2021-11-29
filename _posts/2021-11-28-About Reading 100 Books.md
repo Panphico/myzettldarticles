@@ -2,6 +2,7 @@
 layout: post
 title:  "About Reading 100 Books"
 categories: devperso
+permalink: https://panphico.github.io/myzettldarticles/
 ---
 
 # About Reading 100 Books
