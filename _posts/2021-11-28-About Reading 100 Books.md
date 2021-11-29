@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "About Reading 100 Books"
+categories: devperso
 ---
 
 # About Reading 100 Books
