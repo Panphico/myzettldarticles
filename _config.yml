@@ -3,8 +3,8 @@ title: My Zettld Articles
 description: A repo with some of my articles' summary
 paginate: 20
 
-baseurl: /myzettldarticles/
-url: https://panphico.github.io/myzettldartcles/
+baseurl: /myzettldarticles
+url: https://panphico.github.io/myzettldarticles/
 
 plugins:
   - jekyll-default-layout
