@@ -9,7 +9,6 @@ url: https://panphico.github.io/myzettldarticles/
 plugins:
   - jekyll-default-layout
   - jekyll-titles-from-headings
-  - jekyll-relative-links
 
 lsi: false
 safe: true
