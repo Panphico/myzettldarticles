@@ -3,6 +3,7 @@ title: My Zettld Articles
 description: A repo with some of my articles' summary
 paginate: 20
 
+
 plugins:
   - jekyll-default-layout
   - jekyll-titles-from-headings
@@ -19,3 +20,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+ encoding: UTF-8
+
+baseurl: /myzettldarticles 
+url: https://panphico.github.io/
