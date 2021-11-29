@@ -13,7 +13,7 @@ plugins:
 
 lsi: false
 safe: true
-source: /
+source: /myzettldarticles/
 incremental: false
 highlighter: rouge
 markdown: kramdown
@@ -23,5 +23,5 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
  encoding: UTF-8
-
+page_excerpts : true
 
