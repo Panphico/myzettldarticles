@@ -23,5 +23,5 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
  encoding: UTF-8
-page_excerpts : true
+page_excerpts: true
 
