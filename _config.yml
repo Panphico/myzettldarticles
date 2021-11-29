@@ -26,5 +26,5 @@ kramdown:
 page_excerpts: true
 
 relative_links:
-  enabled:     true
+  enabled: true
   collections: false
