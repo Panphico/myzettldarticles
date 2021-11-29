@@ -1,13 +1,17 @@
-# myzettldarticles
-A zettld version of articles I read FR/EN
+---
+layout: default
+title: myzettldarticles
+---
 
+
+A zettld version of articles I read FR/EN
 
 <h1>Latest Posts</h1>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.relative_url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}
