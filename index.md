@@ -1,10 +1,12 @@
 ---
 layout: default
 title: myzettldarticles
+crawlertitle: "myzettldarticles"
+summary: "A zettld version of articles I read EN"
 ---
 
 
-A zettld version of articles I read FR/EN
+A zettld version of articles I read EN
 
 <h1>Latest Posts</h1>
 
