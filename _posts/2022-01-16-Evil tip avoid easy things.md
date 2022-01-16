@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evil tip: avoid "easy" things"
-categories: work tips
+categories: work
 permalink: https://panphico.github.io/work/tips/2022/01/16/Evil-tip-avoid-easy-things.html
 ---
 
