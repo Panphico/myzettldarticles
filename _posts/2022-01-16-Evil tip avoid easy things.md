@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "Evil tip: avoid "easy" things"
+title:  "Evil tip: avoid easy things"
 categories: work
 ---
-
-# Evil tip: avoid "easy" things
-
-## Notion
 
 Don't work on "easy" things
 
@@ -23,3 +19,6 @@ But it is a gambit, because postponing things until they become urgent is openly
 One thing you want to prevent is people learning to remind you earlier. The way to accomplish it is being very nice when they come late. 
 If people feel punished for reminding too late, they'll come earlier next time, and in a vengeful mood, so with more needless tasks. But if they're late and you eagerly "try to do the best under the circumstances", not only do you put yourself under the spotlight as a patriotic hero, you move the forgetful culprit out of the spotlight. 
 So they'll form a rosy memory of the incident, and not learn the value of coming earlier – precisely what we want.
+
+## Source
+http://yosefk.com/blog/evil-tip-avoid-easy-things.html
