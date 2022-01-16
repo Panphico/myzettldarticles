@@ -4,9 +4,6 @@ title:  "About Reading 100 Books"
 categories: personal_development
 ---
 
-# About Reading 100 Books
-## Notion
-
 1\. Best-Selling Books are Usually Crap
 2\. Read Foundational Books – Often Mentioned in The Bibliography Section
 3\. Good Books are Usually Hard to Get
@@ -19,5 +16,5 @@ categories: personal_development
 10\. The Intellectual Gap Between You and Other Increases
 
 
-## Source
+### Source
 https://durmonski.com/private/reading-100-books/
