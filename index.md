@@ -2,11 +2,9 @@
 layout: default
 title: myzettldarticles
 crawlertitle: "myzettldarticles"
-summary: "A zettld version of articles I read EN"
+summary: "I read a lot of articles, mainly on software, work and personal development. If they are interesting, a create a Zettl-note, that this blog aims to share."
 ---
 
-
-A zettld version of articles I read EN
 
 <h1>Latest Posts</h1>
 
