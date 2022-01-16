@@ -14,8 +14,8 @@ A zettld version of articles I read EN
 {% for post in site.posts limit: 20 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-#	<h4>{{ post.date | date: "%a, %b %d, %y" }}</h4>
-#    {{ post.excerpt }}
+[comment]:	<h4>{{ post.date | date: "%a, %b %d, %y" }}</h4>
+[comment]:    {{ post.excerpt }}
   </article>
 {% endfor %}
 
