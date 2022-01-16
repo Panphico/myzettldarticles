@@ -17,11 +17,3 @@ A zettld version of articles I read EN
     </li>
   {% endfor %}
 </ul>
-
-{% for post in site.posts limit: 10 %}
-  <article class="index-page">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-	<h4>{{ post.date | date: "%a, %b %d, %y" }}</h4>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
