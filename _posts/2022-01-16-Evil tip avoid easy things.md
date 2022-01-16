@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Reading 100 Books"
+title:  "Evil tip: avoid "easy" things"
 categories: work tips
 permalink: https://panphico.github.io/work/tips/2022/01/16/Evil-tip-avoid-easy-things.html
 ---
