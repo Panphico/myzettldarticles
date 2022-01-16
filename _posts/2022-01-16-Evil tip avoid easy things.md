@@ -2,6 +2,7 @@
 layout: post
 title:  "About Reading 100 Books"
 categories: work tips
+permalink: https://panphico.github.io/work/tips/2022/01/16/Evil-tip-avoid-easy-things.html
 ---
 
 # Evil tip: avoid "easy" things
