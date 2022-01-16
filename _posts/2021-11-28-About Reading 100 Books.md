@@ -4,6 +4,7 @@ title:  "About Reading 100 Books"
 categories: personal_development
 ---
 
+After reading 100 books the author discovered that : 
 1. Best-Selling Books are Usually Crap
 1. Read Foundational Books – Often Mentioned in The Bibliography Section
 1. Good Books are Usually Hard to Get
