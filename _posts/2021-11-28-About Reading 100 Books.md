@@ -1,16 +1,11 @@
 ---
 layout: post
 title:  "About Reading 100 Books"
-categories: devperso
+categories: personal_development
 permalink: https://panphico.github.io/myzettldarticles/devperso/2021/11/28/About-Reading-100-Books.html
 ---
 
 # About Reading 100 Books
-id : 20210707232938
-
-## Mots-clés 
-#devperso
-
 ## Notion
 
 ### 1\. Best-Selling Books are Usually Crap
