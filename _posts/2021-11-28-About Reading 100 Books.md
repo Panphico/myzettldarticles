@@ -17,5 +17,4 @@ After reading 100 books the author discovered that :
 1. The Intellectual Gap Between You and Other Increases
 
 
-### Source
-https://durmonski.com/private/reading-100-books/
+[Source](https://durmonski.com/private/reading-100-books/)
