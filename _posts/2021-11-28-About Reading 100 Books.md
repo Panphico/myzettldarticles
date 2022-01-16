@@ -4,16 +4,16 @@ title:  "About Reading 100 Books"
 categories: personal_development
 ---
 
-1\. Best-Selling Books are Usually Crap
-2\. Read Foundational Books – Often Mentioned in The Bibliography Section
-3\. Good Books are Usually Hard to Get
-4\. Figure Out What You Want to Learn First, Then Search For a Book
-5\. Do Your Future Self a Favor and Take Notes
-6\. Books Will Only Show You The Way
-7\. The More You Read the More You Want to Read
-8\. It’s About Taking Action, Not About Reading More Books
-9\. The More You Read, The More You Distance Yourself From Others
-10\. The Intellectual Gap Between You and Other Increases
+1. Best-Selling Books are Usually Crap
+1. Read Foundational Books – Often Mentioned in The Bibliography Section
+1. Good Books are Usually Hard to Get
+1. Figure Out What You Want to Learn First, Then Search For a Book
+1. Do Your Future Self a Favor and Take Notes
+1. Books Will Only Show You The Way
+1. The More You Read the More You Want to Read
+1. It’s About Taking Action, Not About Reading More Books
+1. The More You Read, The More You Distance Yourself From Others
+1. The Intellectual Gap Between You and Other Increases
 
 
 ### Source
