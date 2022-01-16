@@ -6,8 +6,8 @@ categories: work tips
 
 # Evil tip: avoid "easy" things
 
-## KeyWord 
-#pro #conseil
+## Keywords 
+#work #tips
 
 ## Notion
 
