@@ -1,10 +1,30 @@
-theme: jekyll-theme-dinky
+# Site settings
 title: My Zettld Articles 
-description: A repo with some of my articles' summary
+theme: jekyll-theme-dinky
+description: A repo with summary of articles I read
+baseurl: "/myzettldarticles/"      # place folder name if the site is served in a subfolder
+url: "https://panphico.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
+lang: "en"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+
 paginate: 20
 
+# Posts settings
+future: true
 lsi: false
-safe: true
+safe: false
+excerpt_separator: "\n\n"
+
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+
 source: /myzettldarticles
 incremental: false
 highlighter: rouge
@@ -16,9 +36,22 @@ kramdown:
 
 plugins:
   - "jekyll-github-metadata"
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
 domain: panphico.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://panphico.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /myzettldarticles/      # place folder name if the site is served in a subfolder
 
-markdown: kramdown
+
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+
+images: '/assets/images'
