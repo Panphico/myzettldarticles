@@ -6,9 +6,6 @@ categories: work tips
 
 # Evil tip: avoid "easy" things
 
-## Keywords 
-#work #tips
-
 ## Notion
 
 Don't work on "easy" things
