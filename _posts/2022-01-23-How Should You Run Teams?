@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "How Should You Run Teams?"
+crawlertitle: "How Should You Run Teams?"
+summary: "Tips on how to manage a dev team"
+categories: posts
+tags: ['management', 'agile', 'scrum', 'programmation']
+---
+
+
+* Iterative changes always work better than ‘big bang’ ones. A European tech company struggling with shipping very slowly hired a new VP of Engineering. This person decided to move the whole organization to a NoEstimates method in the first few months of their tenure. They organized a major event, hired a rock band, and unveiled the new way of working. The following weeks and months were chaos, and the organization reverted to doing what it did beforehand.
+* It’s more work to teach someone to fish, than it is to catch a fish for them. My approach to project management has been to coach and mentor members of my team to become project leads themselves. It was a lot more work upfront, but resulted in the team delivering more, people growing faster, getting promoted faster, and those people becoming engineering leaders faster than their peers. This approach was one of my best decisions in an empowered environment.
+* Directing, mentoring and coaching all have their uses. Directing – telling people exactly how to do something – is micromanaging when they can do it themselves. However, it’s a supportive activity when they can’t. Choose your approaches depending on whether you direct, mentor or coach and give space to people or teams, based on their capabilities as well. Over time, you should be doing little to no directing. But you might need to start with this.
+* The fewer people you need to make decisions, the faster you can make them. If an engineer only needs to talk to an engineer to decide, that decision will be faster than if the engineer needs to talk to their project manager, who talks to another project manager, who talks to an engineer, who talks to… you get it.
+* Optimizing for reporting is optimizing for a low-trust environment. Reporting at the executive levels is important. However, if you roll out project management methodologies that add heavy processes for the sake of reporting, then you’ll get more process, lower trust, and people gaming whatever reports you’re trying to produce.
+* Consultants will be biased to deliver easy-to-measure results because this is the simplest way to prove their value. If the easy-to-measure result is a good goal, this makes consultants a good investment. Just make sure it is a worthwhile goal, and directionally correct.
+* Learning from direct competitors is underrated. Understanding what a faster-moving competitor is doing – and experimenting with something similar – is a very smart one. Having a coffee with a peer at a competitor can be a great professional, and networking investment, not to mention one that may inspire you.
+* Some of the best engineers would rather quit than be micromanaged, especially when the job market is hot, and it’s so easy to switch jobs. A relevant quote from a response to my survey: “Recently, C-level executives have started to mandate the ways of working for all teams (everyone needs to follow the same methodology). It resulted in a lot of engineers leaving."
+
+[Source](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
