@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "About Reading 100 Books"
-categories: personal_development
+crawlertitle: "About Reading 100 Books"
+summary: "Things learned after reading 100 books"
+categories: posts
+tags: ['personal_development', 'reading']
 ---
 
 After reading 100 books the author discovered that : 
