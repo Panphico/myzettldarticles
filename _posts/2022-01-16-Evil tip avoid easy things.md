@@ -1,7 +1,10 @@
 ---
 layout: post
 title:  "Evil tip: avoid easy things"
-categories: work
+crawlertitle: "Evil tip: avoid easy things"
+summary: "Avoiding easy things make you more important"
+categories: posts
+tags: ['work', 'tips']
 ---
 
 Don't work on "easy" things
